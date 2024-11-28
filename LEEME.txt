@@ -1,0 +1,51 @@
+Proyecto: Sistema de Interacción con Estructuras de Datos
+Descripción General
+
+Este proyecto es una aplicación interactiva diseñada para explorar, implementar y visualizar diferentes estructuras de datos y algoritmos fundamentales. Construida utilizando Python y PyQt5, la aplicación permite a los usuarios interactuar de manera intuitiva con estructuras como listas, pilas, colas, árboles y grafos, proporcionando tanto funcionalidad operativa como representación gráfica en tiempo real.
+
+El proyecto es ideal para estudiantes, educadores y desarrolladores que deseen aprender y experimentar con estructuras de datos en un entorno visual e interactivo.
+Estructuras de Datos y Funcionalidades
+
+Requisitos del Sistema
+
+Para ejecutar este proyecto, se necesitan los siguientes componentes:
+
+    Python 3.10+
+    Bibliotecas requeridas (instalación con pip):
+        PyQt5
+        matplotlib
+        networkx
+
+Instalación de dependencias:
+
+pip install requierements.txt
+
+Cómo Usar
+
+    Inicio del Programa:
+        Ejecuta el archivo principal del proyecto (main.py).
+        Aparecerá el menú principal con opciones para seleccionar las estructuras de datos disponibles.
+
+    Interacción con Ventanas:
+        Selecciona una estructura de datos para abrir una ventana dedicada con sus operaciones y visualizaciones correspondientes.
+        Realiza las operaciones directamente desde la interfaz gráfica.
+
+Representación Gráfica
+
+La representación gráfica es un componente clave del sistema, diseñada para visualizar las estructuras de datos y su evolución en tiempo real:
+
+    Estructuras Lineales: Tablas interactivas para pilas, colas y listas.
+    Estructuras Jerárquicas: Árboles y grafos graficados con matplotlib y networkx.
+    Recursión: Registro de las llamadas recursivas con visualización paso a paso.
+
+Contribuciones y Personalización
+
+El proyecto es modular y está diseñado para ser extendido. Puedes:
+
+    Agregar nuevas estructuras de datos.
+    Implementar algoritmos adicionales.
+    Mejorar las visualizaciones gráficas.
+
+Para contribuir, crea un pull request o sugiere cambios en el repositorio. 
+
+GITHUB: https://github.com/Iampro1712/Algoritm-Menu
